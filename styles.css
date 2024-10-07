@@ -4,32 +4,30 @@ body {
   font-family: "Silkscreen", monospace;
 }
 div {
-  max-width: 460px;
+  max-width: 457px;
   border-top: 3px solid #000;
 border-left: 3px solid #000;
-padding-left: 28px;
+height: 162px;
+margin-bottom:7px;
 }
+
 h1{
 width: 210px;
 height: 77px;
 flex-shrink: 0;
 color: #000;
 font-size: 60px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
+margin: 0px 20px 0px 0px;
 }
+
 p{
-  width: 402px;
-height: 60px;
-font-size: 16px;
 width: 402px;
-color: #000;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
+margin-left: 25px;
 }
+
 img {
   display: block;
   width: 460px;
@@ -37,10 +35,6 @@ img {
 }
 a{
   color: black;
-  font-size: 45px ;
   font-size: 30px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
-text-decoration-line: underline;
 }
